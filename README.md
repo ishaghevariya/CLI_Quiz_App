@@ -2,7 +2,7 @@
 
 * Quiz_App in node.js
 * This App Check Your Knowledge in C#.
-* ['Click hear']('https://replit.com/@ishaghevariya/CLIQuizApp#index.js')
+* [Click here](https://replit.com/@ishaghevariya/CLIQuizApp#index.js)
 
 # Question Credits
   * Tutorialpoint
